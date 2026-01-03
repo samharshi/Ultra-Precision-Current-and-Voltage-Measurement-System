@@ -1,5 +1,9 @@
 # Ultra precision current and voltage measurement system 
-This project focused on creating an embedded system that can very accurately measure tiny currents (from 1µA to 100mA) and voltages (from 1V to 12V) without affecting the device being tested.
-It was built using an STM32F411 microcontroller, chosen for its high performance and reliability in real-time data collection.
+Ultra-Precision Current and Voltage Measurement System
+📌 Project Overview
 
-##COMPONENT
+This project focuses on the design and implementation of an ultra-precision embedded measurement system capable of accurately measuring very small currents and voltages without significantly affecting the device under test (DUT).
+
+The system is designed for high accuracy, stability, and real-time data acquisition, making it suitable for laboratory measurements, sensor characterization, and low-power electronic testing.
+
+The core controller used in this project is the STM32F411 microcontroller, selected for its high performance, reliable ADC capabilities, and suitability for real-time embedded applications.
