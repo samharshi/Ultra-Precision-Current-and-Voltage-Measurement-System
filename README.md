@@ -1,7 +1,7 @@
 # Ultra-Precision Current and Voltage Measurement System
 
 ## 📌 Project Overview
-This project focuses on designing and implementing an **ultra-precision embedded measurement system** capable of accurately measuring very small **currents** and **voltages** without significantly affecting the **Device Under Test (DUT)**.
+This project is a group project and focuses on designing and implementing an **ultra-precision embedded measurement system** capable of accurately measuring very small **currents** and **voltages** without significantly affecting the **Device Under Test (DUT)**.
 
 The system is built using the **STM32F411 microcontroller**, chosen for its high performance, reliability, and suitability for real-time data acquisition. Measured data is transmitted to a PC using **UART communication** and logged using **PuTTY**.
 
